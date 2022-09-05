@@ -26,7 +26,10 @@ I am a design-oriented developer hoping to land my first job as a front end deve
 
 Other than learning and working on projects, I enjoy watching basketball 🏀, working out 🏋🏼‍♂️, buying overpriced shoes 👟, and facetiming my 2 year old neice 📱.
 
-Connet with me on my other socials!
+Thanks for reading to the end! If you want, connect with me on my other socials!
+- [Twitter](https://twitter.com/pfisher6)
+- [Instagram](https://www.instagram.com/pfish06/)
+- [LinkedIn](https://www.linkedin.com/in/parker-fisher/)
 
 
 <!--
