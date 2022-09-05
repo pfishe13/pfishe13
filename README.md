@@ -1,4 +1,33 @@
-### Hi there 👋
+### Hi there 😁
+
+## My name is Parker Fisher!
+
+I am a design-oriented developer hoping to land my first job as a front end developer. I recently graduated from Kent State University with a BS in Computer Science. Since then, I have been working on The Odin Project, a full stack web development curriculum that has provided me with so much useful information regarding web development and programming in general. 
+
+## Some of my skills 💪🏼🤩
+- Languages
+  - JavaScript
+  - React
+  - HTML
+  - CSS
+  - C++
+  - Python (very little)
+- Version Control
+  - Git
+  - GitHub
+- Design
+  - Adobe Photoshop
+  - Adobe Illustrator
+  - Wireframing
+
+## If you are interested, [check out my portfolio](https://pfishe13.github.io/)!
+
+
+
+Other than learning and working on projects, I enjoy watching basketball 🏀, working out 🏋🏼‍♂️, buying overpriced shoes 👟, and facetiming my 2 year old neice 📱.
+
+Connet with me on my other socials!
+
 
 <!--
 **pfishe13/pfishe13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
