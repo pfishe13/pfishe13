@@ -5,12 +5,15 @@
 I am a design-oriented developer hoping to land my first job as a front end developer. I recently graduated from Kent State University with a BS in Computer Science. Since then, I have been working on The Odin Project, a full stack web development curriculum that has provided me with so much useful information regarding web development and programming in general. 
 
 ## Some of my skills 💪🏼🤩
-- Languages
+- Languages + Skills
   - JavaScript
   - React
   - HTML
   - CSS
   - C++
+  - Node.js
+  - MongoDB
+  - Firebase
   - Python (very little)
 - Version Control
   - Git
